@@ -1,0 +1,14 @@
+let name = "Dev"
+let age = 23
+let city = null
+let package = undefined
+let country;
+
+console.log(typeof city) //object
+console.log(typeof package) //undefined
+console.log(typeof country) //undefined
+console.log(typeof Object) //function
+
+/*
+Datatypes: String ,Number,Object,Null,Undefined,Symbol.
+*/
